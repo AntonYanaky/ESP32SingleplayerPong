@@ -13,12 +13,12 @@
 // Rotary Encoder Pins
 const int pinCLK = 12;
 const int pinDT = 14;
-const int pinSW = 27;
+const int pinSW = 26;
 
 // Second rotaryEncoerder pins
-const int pinCLK2 = 13;
-const int pinDT2 = 15;
-const int pinSW2 = 26;
+const int pinCLK2 = 15;
+const int pinDT2 = 13;
+const int pinSW2 = 27;
 
 // Encoder variables
 int counter = 4; 
